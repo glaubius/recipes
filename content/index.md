@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Our Cookbook of Recipes
 ---
+This is a collection of recipes we've found.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here are the [[Recipes/]] and here are the [[Ingredients/]].
